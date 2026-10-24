@@ -1,0 +1,6 @@
+{
+  "name": "KRONOS — AI & ML Club | RVITM Bengaluru",
+  "description": "The living computational machine of ideas: official digital experience for KRONOS, the AI & Machine Learning Club of RV Institute of Technology and Management (RVITM), Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
